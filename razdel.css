@@ -1,0 +1,134 @@
+@import url('https://fonts.googleapis.com/css2?family=Exo+2:wght@300&display=swap');
+
+main{
+    height: 633px;
+    width: 583px;
+    background-color: #8673A1;
+    position: relative;
+    top: 5vh;
+    left: 30vw;
+    font-family: 'Exo 2', sans-serif;
+}
+
+.cnop{
+    font-size: 20px;
+    color: #8673A1;
+    border-color: #89AC76;
+    width: 130px; 
+    height: 130px;
+    background: #FFEEEE;
+    border-radius: 50%;
+    display: block;
+    border-color: #6a5983
+}
+
+.rov1{
+    margin-left: 50px;
+    margin-top: -40px;
+}
+
+.rov2{
+    margin-left: 240px;
+    margin-top: -178px;
+}
+
+.rov3{
+    margin-left: 430px;
+    margin-top: -228px;
+}
+
+.rov4{
+    margin-left: 145px;
+    margin-top: -140px;
+}
+
+.rov5{
+    margin-left: 350px;
+    margin-top: -189px;
+}
+
+body{
+    background-color: #ECDBF1;
+    font-family: 'Exo 2', sans-serif; 
+}
+
+img{
+    border-radius: 50%;
+    border-color: black;
+    border: 1px;
+    margin-left: 150px;
+    margin-top: 20px;
+}
+
+h3{
+    color:#8673A1;
+    background-color: #FFEEEE;
+    padding-top: 10px;
+    font-size: 30px;
+    padding-bottom: 10px;
+    text-align: center;
+}
+
+h2{
+    text-align: center;
+    padding-top: 30px;
+    color: #8673A1;
+}
+
+.cnop1{
+    background: #6a5983;
+    padding-left: 10px;
+    padding-right: 10px;
+    padding-top: 5px;
+    padding-bottom: 5px;
+    margin-top: -15px;
+    font-size: 25px;
+    border-radius: 25px;
+    color: #FFEEEE;
+    border-color: #6a5983;
+    margin-left: 210px;
+}
+
+p{
+    margin-top: -50px;
+    text-align: center;
+    padding-top: 10px;
+    font-size: 23px;
+    display: block;
+    color: #6a5983;
+}
+
+.osn{
+    background: #FFEEEE;
+    padding-left: 20px;
+    padding-right: 20px;
+    padding-top: 5px;
+    padding-bottom: 5px;
+    font-size: 20px;
+    border-radius: 25px;
+    color: #8673A1;
+    border-color: #6a5983;
+    display: block;
+}
+
+.ur1{
+    margin-top: -110px;
+    margin-left: 300px;
+    margin-bottom: 5px;
+}
+
+.ur2{
+    margin-left: 300px;
+    margin-bottom: 40px;
+    padding-left: 33px;
+    padding-right: 33px;
+}
+
+a{
+    text-decoration: none !important;
+}
+
+.b{
+    background-color: #FFEEEE;
+    padding-bottom: 10px;
+}
